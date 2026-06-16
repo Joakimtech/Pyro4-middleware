@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+counter.txt
+*.log
+.DS_Store
