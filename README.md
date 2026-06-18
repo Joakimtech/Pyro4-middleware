@@ -48,7 +48,10 @@ python (client name).py
  ### outputs
  * #### client.py
    <img width="724" height="64" alt="image" src="https://github.com/user-attachments/assets/17e7dd30-9034-41ee-b250-8fa89f1815c8" />
- * 
+ * #### client_error_handling.py
+   <img width="847" height="92" alt="image" src="https://github.com/user-attachments/assets/fb35539e-d3f3-4117-bd6c-df9f04d0225d" />
+  *
+
  * #### counter_client.py
    <img width="684" height="162" alt="image" src="https://github.com/user-attachments/assets/df2429a0-de25-4089-9e5f-60e14a463c75" /> <br>
    <img width="699" height="211" alt="image" src="https://github.com/user-attachments/assets/f5490a89-df0f-4aab-b9df-89206698a80b" /> <br>
