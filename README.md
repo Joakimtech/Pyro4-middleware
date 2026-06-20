@@ -2,6 +2,7 @@
 
 ## Overview
 This project demonstrates middleware implementation using Pyro4 for distributed systems. It includes service discovery, multiple remote objects, error handling, asynchronous calls, persistence, and security.
+* #### All work has been done in the CLI (command line interface) for now
 
 ## Activities Completed
 1. Basic greeting service with Pyro4
