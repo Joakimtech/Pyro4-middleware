@@ -53,8 +53,9 @@ python (client name).py
    <img width="847" height="92" alt="image" src="https://github.com/user-attachments/assets/fb35539e-d3f3-4117-bd6c-df9f04d0225d" />
  * #### client_multiple.py
    <img width="723" height="71" alt="image" src="https://github.com/user-attachments/assets/34d155e6-4583-483c-925f-f2501802b9c1" />
+* #### asynchronous calls
+    1. <br>  <img width="721" height="110" alt="image" src="https://github.com/user-attachments/assets/1e62703e-ac78-4950-bece-ca9ec232a468" />
 
- * 
 
  * #### counter_client.py
    <img width="684" height="162" alt="image" src="https://github.com/user-attachments/assets/df2429a0-de25-4089-9e5f-60e14a463c75" /> <br>
