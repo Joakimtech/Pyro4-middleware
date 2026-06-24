@@ -51,7 +51,10 @@ python (client name).py
    <img width="724" height="64" alt="image" src="https://github.com/user-attachments/assets/17e7dd30-9034-41ee-b250-8fa89f1815c8" />
  * #### client_error_handling.py
    <img width="847" height="92" alt="image" src="https://github.com/user-attachments/assets/fb35539e-d3f3-4117-bd6c-df9f04d0225d" />
-  *
+ * #### client_multiple.py
+   <img width="723" height="71" alt="image" src="https://github.com/user-attachments/assets/34d155e6-4583-483c-925f-f2501802b9c1" />
+
+ * 
 
  * #### counter_client.py
    <img width="684" height="162" alt="image" src="https://github.com/user-attachments/assets/df2429a0-de25-4089-9e5f-60e14a463c75" /> <br>
