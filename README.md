@@ -55,6 +55,8 @@ python (client name).py
    <img width="723" height="71" alt="image" src="https://github.com/user-attachments/assets/34d155e6-4583-483c-925f-f2501802b9c1" />
 * #### asynchronous calls
     1. <br>  <img width="721" height="110" alt="image" src="https://github.com/user-attachments/assets/1e62703e-ac78-4950-bece-ca9ec232a468" />
+    2. <br> <img width="711" height="196" alt="image" src="https://github.com/user-attachments/assets/41c89572-2371-421c-9b92-d7a19f307125" />
+
 
 
  * #### counter_client.py
